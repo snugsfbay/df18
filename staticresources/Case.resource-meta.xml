@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StaticResource xmlns="http://soap.sforce.com/2006/04/metadata">
+    <cacheControl>Private</cacheControl>
+    <contentType>application/vnd.ms-excel</contentType>
+    <description>One with status of &quot;Pending Customer Response&quot; related to scheduled PB</description>
+</StaticResource>

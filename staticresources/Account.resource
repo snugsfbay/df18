@@ -1,0 +1,13 @@
+Id,Name,BillingStreet,BillingCity,BillingState,BillingPostalCode,BillingCountry,BillingLatitude,BillingLongitude,BillingGeocodeAccuracy,ShippingStreet,ShippingCity,ShippingState,ShippingPostalCode,ShippingCountry,ShippingLatitude,ShippingLongitude,ShippingGeocodeAccuracy,Phone,Fax,Website
+88,GenePoint,345 Shoreline Park Mountain View - CA 94043 USA,Mountain View,CA,,,,,,345 Shoreline Park Mountain View - CA 94043 USA,,,,,,,,(650) 867-3450,(650) 867-9895,www.genepoint.com
+89,United Oil & Gas - UK,Kings Park - 17th Avenue - Team Valley Trading Estate - Gateshead - Tyne and Wear NE26 3HS United Kingdom,,UK,,,,,,Kings Park - 17th Avenue - Team Valley Trading Estate - Gateshead - Tyne and Wear NE26 3HS United Kingdom,,,,,,,,+44 191 4956203,+44 191 4956620,http://www.uos.com
+90,United Oil & Gas - Singapore,9 Tagore Lane Singapore - Singapore 787472 Singapore,Singapore,Singapore,,,,,,9 Tagore Lane Singapore - Singapore 787472 Singapore,,,,,,,,(650) 450-8810,(650) 450-8820,http://www.uos.com
+91,Edge Communications,312 Constitution Place Austin - TX 78767 USA,Austin,TX,,,,,,312 Constitution Place Austin - TX 78767 USA,,,,,,,,(512) 757-6000,(512) 757-9000,http://edgecomm.com
+92,Burlington Textiles Corp of America,525 S. Lexington Ave,Burlington,NC,27215,USA,,,,,,,,,,,,(336) 222-7000,(336) 222-8000,www.burlington.com
+93,Pyramid Construction Inc.,2 Place Jussieu,Paris,,75251,France,,,,2 Place Jussieu,Paris,,75251,France,,,,(014) 427-4427,(014) 427-4428,www.pyramid.com
+94,Dickenson plc,1301 Hoch Drive,Lawrence,KS,66045,USA,,,,1301 Hoch Drive,Lawrence,KS,66045,USA,,,,(785) 241-6200,(785) 241-6201,dickenson-consulting.com
+95,Grand Hotels & Resorts Ltd,2334 N. Michigan Avenue - Suite 1500 Chicago - IL 60601 - USA,Chicago,IL,,,,,,2334 N. Michigan Avenue - Suite 1509 Chicago - IL 60601 - USA,,,,,,,,(312) 596-1000,(312) 596-1500,www.grandhotels.com
+96,Express Logistics and Transport,620 SW 5th Avenue Suite 400 Portland - Oregon 97204 United States,Portland,OR,,,,,,620 SW 5th Avenue Suite 400 Portland - Oregon 97204 United States,,,,,,,,(503) 421-7800,(503) 421-7801,www.expressl&t.net
+97,University of Arizona,888 N Euclid  Hallis Center - Room 501 Tucson - AZ 85721 United States,Tucson,AZ,,,,,,888 N Euclid  Hallis Center - Room 501 Tucson - AZ 85721 United States,,,,,,,,(520) 773-9050,(520) 773-9060,www.universityofarizona.com
+98,United Oil & Gas Corp.,1301 Avenue of the Americas  New York - NY 10019 USA,New York,NY,,,,,,1301 Avenue of the Americas  New York - NY 10019 USA,,,,,,,,(212) 842-5500,(212) 842-5501,http://www.uos.com
+99,sForce,The Landmark @ One Market,San Francisco,CA,94087,US,,,,,,,,,,,,(415) 901-7000,(415) 901-7002,www.sforce.com
