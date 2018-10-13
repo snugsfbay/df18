@@ -1,5 +1,8 @@
 # df18
 ## Testing Lightning Flow Automations
+
+[![Dreamforce Video](https://img.youtube.com/vi/HjD1BElxh3A/0.jpg)](https://www.youtube.com/watch?v=HjD1BElxh3A)
+
 Code from our Dreamforce Session: [Testing Lightning Flow Automations](https://success.salesforce.com/sessions?eventId=a1Q3A00001XoCSUUA3#/session/a2q3A000001WXVIQA4)
 
 * Package.xml: Zip file containing all of the directories and files needed to deploy via SFDX or Developer Workbench.
@@ -26,5 +29,3 @@ SELECT Id, ApexTestClass.Name, TestMethodName, FlowVersion.MasterLabel, NumEleme
 [Essential Testing Techniques](https://www.pluralsight.com/courses/salesforce-admin-essential-testing-techniques)
 
 [Dreamforce Slides](https://success.salesforce.com/0693A000006jVIT)
-
-[![Dreamforce Video](https://img.youtube.com/vi/HjD1BElxh3A/0.jpg)](https://www.youtube.com/watch?v=HjD1BElxh3A)
