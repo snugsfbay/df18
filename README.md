@@ -19,4 +19,12 @@ Code from our Dreamforce Session: [Testing Lightning Flow Automations](https://s
 * Docs: Reserved for future uses such as slide and video links.
 
 ### Other resources: 
+Useful SOQL: 
+SELECT Id, ApexTestClass.Name, TestMethodName, FlowVersion.MasterLabel, NumElementsCovered, NumElementsNotCovered 
+  FROM FlowTestCoverage
+
 [Essential Testing Techniques](https://www.pluralsight.com/courses/salesforce-admin-essential-testing-techniques)
+
+[Dreamforce Slides](https://success.salesforce.com/0693A000006jVIT)
+
+[![Dreamforce Video](https://img.youtube.com/vi/HjD1BElxh3A/0.jpg)](https://www.youtube.com/watch?v=HjD1BElxh3A)
